@@ -1,2 +1,6 @@
 [workspace]
-members = ["guessing","ranges"]
+members = [
+    "guessing",
+    "ranges",
+    "matching",
+]
