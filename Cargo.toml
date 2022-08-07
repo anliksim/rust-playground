@@ -3,4 +3,5 @@ members = [
     "guessing",
     "ranges",
     "matching",
+    "json",
 ]
